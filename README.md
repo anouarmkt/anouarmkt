@@ -6,6 +6,8 @@
 
 
 <h3 align="right"> <img src="https://komarev.com/ghpvc/?username=anouarmkt&label=Profile%20views&color=0e75b6&style=flat" alt="anouarmkt" />
+   
+   <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/anouarmkt.png" alt="TryHackMe">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
