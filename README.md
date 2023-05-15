@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h2 align="center">Connect with me:</h2>
+   <!--  <h2 align="center">Connect with me:</h2> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
