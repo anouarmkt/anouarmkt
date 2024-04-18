@@ -20,7 +20,8 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hadi-anouar-mokhtari-9b7504279" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/hadi-anouar-mokhtari-9b7504279?trk=profile-badge">Hadi Anouar Mokhtari</a></div>
+              
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouarmkt&show_icons=true&locale=en&layout=compact" alt="anouarmkt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anouarmkt&show_icons=true&locale=en" alt="anouarmkt" /></p>
